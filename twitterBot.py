@@ -40,12 +40,7 @@ while True:
 						'Optimize',
 						'-colors',
 						'64',
-						'movie.gif',
-						'>',
-						'/dev/null',
-						'2>&1',
-						'<',
-						'/dev/null'])
+						'movie.gif'])
 
 	# other passes reduce the size
 	while(os.path.getsize('movie.gif') > 2097152):
@@ -56,12 +51,7 @@ while True:
 						'-coalesce',
 						'-layers',
 						'optimize',
-						'movie.gif',
-						'>',
-						'/dev/null',
-						'2>&1',
-						'<',
-						'/dev/null'])
+						'movie.gif'])
 	
 	#If first upload fails try again.
 	for i in range(0,2):
