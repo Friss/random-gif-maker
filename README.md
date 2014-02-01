@@ -38,6 +38,6 @@ My movie file structure is:
 If script is outputting the wrong Movie Title or errors on generating ```moviename``` I would look into how the movie name is generated. 
 
 ### Resources
-The twitter bot is from [https://github.com/LindseyB/starwars-dot-gif/](Lindsey B's Starwars dot Gif) I plan to make more modifications later to make it my own. 
+The twitter bot is from [Lindsey B's Starwars dot Gif](https://github.com/LindseyB/starwars-dot-gif/ I plan to make more modifications later to make it my own. 
 
-The script uses [https://github.com/Zulko/moviepy](MoviePy) to generate the GIFs so there are endless possbilities of GIFs that could be created.  
+The script uses [MoviePy](https://github.com/Zulko/moviepy) to generate the GIFs so there are endless possbilities of GIFs that could be created.  
