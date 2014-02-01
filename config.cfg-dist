@@ -1,0 +1,10 @@
+[general]
+movies_path: /path/to/movies
+[imgur]
+client_id: 
+api_key: 
+[twitter]
+oauth_token: 
+oauth_token_secret: 
+app_key: 
+app_secret: 
