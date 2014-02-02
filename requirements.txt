@@ -1,0 +1,7 @@
+urwid
+pysrt
+numpy
+PIL
+Twython
+decorator
+moviepy

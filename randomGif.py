@@ -50,7 +50,7 @@ def makeGif(root):
 	mins = random.randint(0,int(duration[1])+1) #Random min
 	secs = float(duration[2]) #Parse secs to float
 
-	timePassed = round(random.uniform(0, 5),2) #Random seconds to elapse up to 5.
+	timePassed = round(random.uniform(0, 3),2) #Random seconds to elapse up to 3.
 	
 	"""
 	print hour
